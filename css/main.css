@@ -399,17 +399,25 @@
 	font-size:13px;
 	color:#ec0101;
 	text-decoration: none;
+	transition: ease-out .3s;
 }
 .read-more:hover{
 	outline: none;
 	text-decoration:none;
 	color:#000000;
 }
+.black-background{
+	background: #000;
+}
+.footer-section{
+	padding-top:15px;
+}
 
-
-
-
-
+.copy-right{
+	color:#d1d1d1;
+	font-size: 14px;
+	font-family: 'Open Sans','Roboto',sans-serif;
+}
 
 
 
